@@ -2,9 +2,13 @@
   <img src="header-footer.png" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hi!%2C+I'm+Troy+Mendoza+%F0%9F%91%8B/;>
-</p>
+<details open>
+  <summary><b>👋 Welcome! (Click to collapse)</b></summary>
+  <br>
+  <h1>Hi! I'm Troy Mendoza</h1>
+  <h3>Front-End Developer | UI/UX Designer</h3>
+  <hr>
+</details>
 
 # 💫 About Me:
 Data Encoder, Front-End Developer and Graphic Designer
