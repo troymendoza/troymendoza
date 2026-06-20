@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" width="100%" />
+  <img src="header-footer.png" width="100%" />
 </p>
 
 # 💫 About Me:
@@ -20,5 +20,5 @@ Data Encoder, Front-End Developer and Graphic Designer
 ![](https://github-profile-trophy.vercel.app/?username=troymendoza&theme=swift&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="center">
-  <img src="header.png" width="100%">
+  <img src="header-footer.png" width="100%">
 </p>
