@@ -12,15 +12,9 @@
 
 <!-- Section 1 - Introduction code -->
 <div align="center">
-  
-  <!-- GIF WITH BORDER -->
-  <table style="border:3px solid #4C824F; border-radius:10px; padding:6px;">
-    <tr>
-      <td align="center">
-        <img src="typing.gif" width="280" style="max-width:100%; height:auto;">
-      </td>
-    </tr>
-  </table>
+
+  <!-- TOP GIF -->
+  <img src="typing.gif" width="280" style="max-width:100%; height:auto;">
 
   <br>
   
