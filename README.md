@@ -80,14 +80,24 @@
   <img src="word.png" width="90"/>
 
 </div>
+
 <hr>
 
-<!-- Section 2 - GitHub stats code -->
+<!-- Section 4 - GitHub stats code -->
 <h2><code>📈 What is the status of your GitHub statistics?</code></h2>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=troymendoza&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" height="170"/>
   <img src="https://streak-stats.demolab.com/?user=troymendoza&theme=shadow_green&hide_border=false" height="170"/>
+</p>
+
+<hr>
+
+<!-- Quotation code -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Quote-Simplicity%20is%20the%20ultimate%20sophistication.-4C824F?style=for-the-badge" />
+  <br>
+  <sub>— Steve Jobs</sub>
 </p>
 
 <!-- This is the business card code -->
