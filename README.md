@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=IBMPlexMono&size=30&pause=1000&color=4C824F&center=true&vCenter=true&width=600&lines=Hello!+My+name's+Troy+Mendoza.;I+am+a+Front-End+Developer+...;and+a+UI%2FUX+Designer." />
 </div>
 
-<hr>
-
 <!-- Section 1 - Introduction code -->
 <div align="center">
 
@@ -29,6 +27,8 @@
       <img src="https://img.shields.io/badge/FROM%20THESE%20INGRAINED%20HOBBIES,%20I%20DEVELOPED%20A%20KEEN%20EYE%20ON%20WHAT%20MAKES%20SOMETHING-4C824F?style=for-the-badge" />
       <br>
       <img src="https://img.shields.io/badge/VISUALLY%20PLEASING%20AND%20ICONICALLY%20SIMPLE.%20THEREFORE,%20I%20SPECIALIZED%20IN%20DEVELOPING%20FRONT%20END%20INTERFACES-4C824F?style=for-the-badge" />
+      <br>
+      <img src="https://img.shields.io/badge/OF%20WEB%20APPLICATIONS%20AND%20SOFTWARE%20SYSTEMS.%20I%20ALSO%20EXPLORE -4C824F?style=for-the-badge" />
       <br>
     </tr>
   </table>
