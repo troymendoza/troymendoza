@@ -57,33 +57,33 @@
 
 <div align="center">
 
-  <img src="ai-funda.png" width="90"/>
-  <img src="assoc.png" width="90"/>
-  <img src="comp-mob.png" width="90"/>
-  <img src="ctm.png" width="90"/>
-  <img src="cybersec.png" width="90"/>
-  <img src="dev-config.png" width="90"/>
-  <img src="digi-awa.png" width="90"/>
+  <img src="ai-funda.png" width="60"/>
+  <img src="assoc.png" width="60"/>
+  <img src="comp-mob.png" width="60"/>
+  <img src="ctm.png" width="60"/>
+  <img src="cybersec.png" width="60"/>
+  <img src="dev-config.png" width="60"/>
+  <img src="digi-awa.png" width="60"/>
 
   <br>
 
-  <img src="excel.png" width="90"/>
-  <img src="hardware.png" width="90"/>
-  <img src="ic3.png" width="90"/>
-  <img src="intro-ai.png" width="90"/>
-  <img src="intro-cybersec.png" width="90"/>
-  <img src="intro-iot.png" width="90"/>
-  <img src="it-cust.png" width="90"/>
+  <img src="excel.png" width="60"/>
+  <img src="hardware.png" width="60"/>
+  <img src="ic3.png" width="60"/>
+  <img src="intro-ai.png" width="60"/>
+  <img src="intro-cybersec.png" width="60"/>
+  <img src="intro-iot.png" width="60"/>
+  <img src="it-cust.png" width="60"/>
 
   <br>
 
-  <img src="netw-sec.png" width="90"/>
-  <img src="netw.png" width="90"/>
-  <img src="pmi.png" width="90"/>
-  <img src="ppt.png" width="90"/>
-  <img src="reports.png" width="90"/>
-  <img src="software-dev.png" width="90"/>
-  <img src="word.png" width="90"/>
+  <img src="netw-sec.png" width="60"/>
+  <img src="netw.png" width="60"/>
+  <img src="pmi.png" width="60"/>
+  <img src="ppt.png" width="60"/>
+  <img src="reports.png" width="60"/>
+  <img src="software-dev.png" width="60"/>
+  <img src="word.png" width="60"/>
 
 </div>
 
