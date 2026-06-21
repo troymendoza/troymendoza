@@ -12,14 +12,12 @@
 
 <!-- Section 1 - Introduction code -->
   <h2><code>❓ How would you describe yourself?</code></h2>
-
-  <br>
   
   <!-- GIF -->
   <div align="center">
   <img src="typing.gif" width="280" style="max-width:100%; height:auto;">
 
-  <br>
+  <br><br>
   
   <!-- GREEN BLOCK PARAGRAPH -->
   <table style="background-color:#4C824F; color:white; border-radius:10px; padding:20px; max-width:900px;">
