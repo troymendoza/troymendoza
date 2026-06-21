@@ -32,7 +32,7 @@
       <br>
       <img src="https://img.shields.io/badge/OF%20WEB%20APPLICATIONS%20AND%20SOFTWARE%20SYSTEMS.%20I%20ALSO%20EXPLORE%20UI%20AND%20UX%20ARCHITECTURE%20TO-4C824F?style=for-the-badge" />
       <br>
-      <img src="https://img.shields.io/badge/UNDERSTAND%20WHAT%20MAKES%20APPLICATIONS%20USER-FRIENDLY%20AND%20USABLE%20IN%20THE%20LONG%20RUN.-4C824F?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/UNDERSTAND%20WHAT%20MAKES%20APPLICATIONS%20INTUITIVE%20AND%20USABLE%20IN%20THE%20LONG%20RUN.-4C824F?style=for-the-badge" />
     </tr>
   </table>
 </div>
