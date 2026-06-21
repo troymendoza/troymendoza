@@ -28,7 +28,7 @@
       <br>
       <img src="https://img.shields.io/badge/FROM%20THESE%20INGRAINED%20HOBBIES,%20I%20DEVELOPED%20A%20KEEN%20EYE%20ON%20WHAT%20MAKES%20SOMETHING-4C824F?style=for-the-badge" />
       <br>
-      <img src="https://img.shields.io/badge/ICONICALLY%20SIMPLE.%20THEREFORE,%20I%20SPECIALIZED%20IN%20DEVELOPING%20FRONT-END%20INTERFACES%20OF%20WEB%20APPLICATIONS%20AND%20SOFTWARE%20SYSTEMS. -4C824F?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/VISUALLY%20PLEASING%20AND%20ICONICALLY%20SIMPLE.-4C824F?style=for-the-badge" />
       <br>
     </tr>
   </table>
