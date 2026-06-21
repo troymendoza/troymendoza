@@ -11,12 +11,12 @@
 <hr>
 
 <!-- Section 1 - Introduction code -->
-<div align="center">
-
-<!-- TITLE -->
   <h2><code>❓ How would you describe yourself?</code></h2>
+
+  <br>
   
   <!-- GIF -->
+  <div align="center">
   <img src="typing.gif" width="280" style="max-width:100%; height:auto;">
 
   <br>
