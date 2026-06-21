@@ -85,10 +85,9 @@
 <!-- Section 2 - GitHub stats code -->
 <h2><code>📈 What is the status of your GitHub statistics?</code></h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165"/>
-</p>
+![](https://github-readme-stats.shion.dev/api?username=troymendoza&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=troymendoza&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=troymendoza&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <hr>
 
