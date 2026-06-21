@@ -11,33 +11,22 @@
 <hr>
 
 <!-- Section 1 - Introduction code -->
-
 <div align="center">
 
   <!-- GIF -->
   <img src="typing.gif" width="280" style="max-width:100%; height:auto;">
 
-  <br><br>
+  <br>
 
   <!-- TITLE -->
   <h2><code>❓ How would you describe yourself?</code></h2>
-
-  <br>
-
+  
   <!-- GREEN BLOCK PARAGRAPH -->
-  <table style="max-width:900px; border:2px solid #4C824F; border-radius:10px;">
+  <table style="background-color:#4C824F; color:white; border-radius:10px; padding:20px; max-width:900px;">
     <tr>
-      <td align="center" style="padding:20px;">
-        <p style="font-size:15px; line-height:1.6; margin:0;">
-          Ever since I was little, I've always had a passion for design, from traditional arts and crafts to graphic arts.  
-          From these deep-rooted hobbies, I developed a keen eye on what makes something visually pleasing and iconically simple.  
-          Therefore, I specialized in developing <b>front-end interfaces</b> of web applications and software systems.  
-          I also explore <b>UI and UX architecture</b> to understand what makes applications user-friendly and usable in the long run.
-        </p>
-      </td>
+    <img src="https://img.shields.io/badge/EVER%20SINCE%20I%20WAS%20LITTLE,%20I'VE%20ALWAYS%20HAD%20A%20PASSION%20FOR%20DESIGN,%20FROM%20TRADITIONAL%20ARTS%20AND%20CRAFTS%20TO%20GRAPHIC%20ARTS.-4C824F?style=for-the-badge" />
     </tr>
   </table>
-
 </div>
 
 <hr>
