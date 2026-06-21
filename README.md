@@ -85,6 +85,8 @@
   <img src="software-dev.png" width="60"/>
   <img src="word.png" width="60"/>
 
+  <br>
+  
   <!-- Credly Rectangle Link -->
   <a href="https://www.credly.com/users/troy-mendoza.db56d5b2">
     <img src="https://img.shields.io/badge/View%20All%20Credly%20Badges-4C824F?style=for-the-badge&logo=credly&logoColor=white"/>
