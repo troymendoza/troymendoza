@@ -18,7 +18,7 @@
           <img src="typing.gif" width="300"> 
         </td> 
         <td> 
-          <h2><code>❓How would you describe yourself?</code></h2> 
+          <h2><code>❓ How would you describe yourself?</code></h2> 
           <p> 
             Ever since I was little, I've always had a passion for design, from traditional arts and crafts to graphic arts. 
             From these deep-rooted hobbies, I developed a keen eye on what makes something visually pleasing and iconically simple. 
