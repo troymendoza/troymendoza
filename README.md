@@ -31,7 +31,7 @@
 
 <hr>
 
-<!-- Section 1 - Tech used code -->
+<!-- Section 2 - Tech Used code -->
 <div align="center">
 <h2><code>💻 What technologies have you used?</code></h2> 
 
@@ -41,6 +41,17 @@
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![AJAX](https://img.shields.io/badge/ajax-00599C.svg?style=for-the-badge) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |  |  |  |
 </div>
+
+<hr>
+
+<!-- Section 3 - Achievements code -->
+<h2><code>🏆 What are your achievements so far?</code></h2>
+
+<hr>
+
+<!-- Section 2 - GitHub stats code -->
+<h2><code>📈 What is the status of your GitHub statistics?</code></h2>
+
 <hr>
 
 <!-- This is the business card code -->
