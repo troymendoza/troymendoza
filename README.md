@@ -24,14 +24,7 @@
   <!-- GREEN BLOCK PARAGRAPH -->
   <table style="background-color:#4C824F; color:white; border-radius:10px; padding:20px; max-width:900px;">
     <tr>
-      <td align="center" style="padding:20px;">
-        <p style="font-size:15px; line-height:1.6;">
-          Ever since I was little, I've always had a passion for design, from traditional arts and crafts to graphic arts.  
-          From these deep-rooted hobbies, I developed a keen eye on what makes something visually pleasing and iconically simple.  
-          Therefore, I specialized in developing <b>front-end interfaces</b> of web applications and software systems.  
-          I also explore <b>UI and UX architecture</b> to understand what makes applications user-friendly and usable in the long run.
-        </p>
-      </td>
+    <img src="https://img.shields.io/badge/Ever%20since%20I%20little%20,I'VE-4C824F?style=for-the-badge" /> 
     </tr>
   </table>
 </div>
