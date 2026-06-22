@@ -142,7 +142,7 @@ const troy = {
 
 <!-- Quotation -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Simplicity%20is%20the%20ultimate%20sophistication-4C824F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DESIGN%20IS%20NOT%20JUST%20WHAT%20IT%20LOOKS%20LIKE%20AND%20FEELS%20LIKE.%20DESIGN%20IS%20HOW%20IT%20WORKS.-4C824F?style=for-the-badge" />
   <br>
   <b>— Steve Jobs</b>
 </p>
