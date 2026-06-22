@@ -149,7 +149,7 @@ const troy = {
 
 <!-- 3D Business Card -->
 <p align="center">
-  <img src="troymendoza-businesscard.png" width="70%">
+  <img src="troymendoza-business-card.png" width="70%">
 </p>
 
 
