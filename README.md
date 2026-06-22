@@ -19,7 +19,7 @@
 <br>
 ```javascript
 const troy = {
-  about: "Ever since I was little, I've always had a passion for design, from traditional arts and crafts projects to digital graphics."
+  about: "Ever since I was little, I've always had a passion for design."
 };
 ```
 
