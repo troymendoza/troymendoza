@@ -21,12 +21,12 @@
 ```javascript
 const troy = {
   about:          "        Ever since I was little, I've always had a passion for design, from traditional         "
-  about:          "          arts and crafts projects to digital graphics. From these ingrained childhood          "
-  about:          "               childhood hobbies, I developed a keen eye for what makes something               "
-  about:          "         visually pleasing and iconically simple. Therefore, I specialize in developing         "
-  about:          "         front-end interfaces for web applications and software systems. I also explore         "
-  about:          "               UI design and UX architecture to understand what makes applications              "
-  about:          "                              intuitive and usable in the long run.                             "
+                  "          arts and crafts projects to digital graphics. From these ingrained childhood          "
+                  "               childhood hobbies, I developed a keen eye for what makes something               "
+                  "         visually pleasing and iconically simple. Therefore, I specialize in developing         "
+                  "         front-end interfaces for web applications and software systems. I also explore         "
+                  "               UI design and UX architecture to understand what makes applications              "
+                  "                              intuitive and usable in the long run.                             "
 };
 ```
 
