@@ -18,16 +18,20 @@
   <img src="typing.gif" width="280" style="max-width:100%; height:auto;">
 
   <br>
-
-  <div align="center">
-  ```javascript
-  const troy = {
-    Ever since I was little, I've always had a passion for design, from traditional arts and crafts projects to digital graphics. 
-    From these ingrained childhood hobbies, I developed a keen eye on what makes something visually pleasing and iconically simple.
-    Therefore, I specialized in developing front-end interfaces of web applications and software systems.
-    I also explore UI designing and UX architecture to understand what makes applications intuitive and usable in the long run.
-  };
-  </div>
+      ```javascript
+    const troy = {
+      about: `
+        Ever since I was little, I've always had a passion for design,
+        from traditional arts and crafts projects to digital graphics.
+        From these ingrained childhood hobbies, I developed a keen eye
+        for what makes something visually pleasing and iconically simple.
+        Therefore, I specialize in developing front-end interfaces
+        for web applications and software systems.
+        I also explore UI design and UX architecture to understand
+        what makes applications intuitive and usable in the long run.
+      `,
+    };
+```
 
 <hr>
 
