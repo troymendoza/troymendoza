@@ -1,5 +1,5 @@
 <!-- Header -->
-<p ali="center">
+<p align="center">
   <img src="header-footer.png" width="100%" />
 </p>
 
