@@ -16,10 +16,6 @@
 
 
 
-
-
-
-
 <!-- Section 1 - Self Description -->
 <h2><code>❓ How would you describe yourself?</code></h2>
 
