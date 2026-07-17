@@ -26,7 +26,6 @@
 <br>
 
 ```javascript
-
                 "        Ever since I was little, I've always had a passion for design, from traditional         "
                 "          arts and crafts projects to digital graphics. From these ingrained childhood          "
                 "               childhood hobbies, I developed a keen eye for what makes something               "
@@ -34,7 +33,6 @@
                 "         front-end interfaces for web applications and software systems. I also explore         "
                 "               UI design and UX architecture to understand what makes applications              "
                 "                              intuitive and usable in the long run.                             "
-};
 ```
 
 
