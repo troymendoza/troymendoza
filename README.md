@@ -26,7 +26,7 @@
 <br>
 
 ```javascript
-const troy = {
+
                 "        Ever since I was little, I've always had a passion for design, from traditional         "
                 "          arts and crafts projects to digital graphics. From these ingrained childhood          "
                 "               childhood hobbies, I developed a keen eye for what makes something               "
