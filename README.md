@@ -17,7 +17,7 @@
 
 
 <!-- Section 1 - Self Description -->
-<h2><code>❓ How would you describe yourself?</code></h2>
+<h2><code>❓ How would you describeuuu yourself?</code></h2>
 
 <div align="center">
   <img src="typing.gif" width="280">
